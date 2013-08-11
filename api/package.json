@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "just another api interface",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "cheerio": "~0.12.1",
+    "request": "~2.26.0",
+    "q": "~0.9.6",
+    "orm": "~2.1.0",
+    "config": "~0.4.29"
+  }
+}
