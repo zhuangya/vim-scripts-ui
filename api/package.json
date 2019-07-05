@@ -12,10 +12,10 @@
   "author": "Ya Zhuang <zhuangya@gmail.com>",
   "license": "BSD",
   "dependencies": {
-    "cheerio": "~0.12.1",
-    "request": "~2.26.0",
-    "q": "~0.9.6",
-    "orm": "~2.1.0",
-    "config": "~0.4.29"
+    "cheerio": "~0.22.0",
+    "request": "~2.88.0",
+    "q": "~1.5.1",
+    "orm": "~5.0.4",
+    "config": "~3.1.0"
   }
 }
